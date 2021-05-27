@@ -1,0 +1,8 @@
+V3 3
+FL E:/DATA/learn_fpga/multiplexer_4bits/multiplexer_4bits.vhd 2021/04/30.17:41:44 P.20131013
+EN work/multiplexer_4bits 1619779311 \
+      FL E:/DATA/learn_fpga/multiplexer_4bits/multiplexer_4bits.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/multiplexer_4bits/Behavioral 1619779312 \
+      FL E:/DATA/learn_fpga/multiplexer_4bits/multiplexer_4bits.vhd \
+      EN work/multiplexer_4bits 1619779311

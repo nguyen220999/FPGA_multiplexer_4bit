@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/DATA/learn_fpga/multiplexer_4bits/multiplexer_4bits.xst" -ofn "E:/DATA/learn_fpga/multiplexer_4bits/multiplexer_4bits.syr" 
